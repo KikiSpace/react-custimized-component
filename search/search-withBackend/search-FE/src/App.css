@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputfield {
+  margin-top: 10%;
+  margin-bottom: 10px;
+}
+
+.addField {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 5px;
+}
+
+input {
+  width: 350px;
+  height: 50px;
+  font-size: larger;
+  transition: all 0.5s;
+}
+
+input:focus {
+  width: 400px;
+  height: 60px;
+  outline-color: aqua;
+}
+
+display {
+  transition: all 0.5s;
+}
