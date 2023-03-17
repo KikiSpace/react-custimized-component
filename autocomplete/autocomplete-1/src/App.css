@@ -1,0 +1,12 @@
+input {
+  width: 45%;
+  margin-left: 5%;
+  position: relative;
+}
+
+.hintdisplay {
+  position: absolute;
+  width: 45%;
+  margin-left: 5%;
+  background-color: aqua;
+}
